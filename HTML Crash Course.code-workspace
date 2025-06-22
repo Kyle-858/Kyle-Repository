@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "HTML Crash Course",
+			"path": "../HTML Crash Course"
+		},
+		{
+			"path": "../CSS CRASH COURSE"
+		},
+		{
+			"path": "../FLEX"
+		},
+		{
+			"path": "../GITHUBSETUP"
+		},
+		{
+			"path": "../HTML Tutorial"
+		},
+		{
+			"path": "../EPORTFOLIOTUTORIAL"
+		},
+		{
+			"path": "../ECOMMERCEPROJECT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FINALPROJECT"
+	}
+}
